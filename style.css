@@ -12,3 +12,10 @@ body>h2{
 .paragraph,.hmm{
     font-size: x-large;
 }
+
+body>h1{
+    font-style:italic
+}
+.paragraph,.hmm{
+    font-style:italic
+}
