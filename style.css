@@ -19,3 +19,11 @@ body>h1{
 .paragraph,.hmm{
     font-style:italic
 }
+h3+p{ 
+    font-size: 26px;
+}
+p:hover{ font-size: xx-large;
+}
+h1:hover{font-size: xx-small;}
+
+h3:active{font-size: xx-large;}
